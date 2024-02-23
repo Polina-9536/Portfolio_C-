@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\All C# ITP\DLL_LR7_ITP\DLL_LR7_ITP\bin\Debug\DLL_LR7_ITP.dll
+C:\Users\User\source\repos\All C# ITP\DLL_LR7_ITP\DLL_LR7_ITP\bin\Debug\DLL_LR7_ITP.pdb
+C:\Users\User\source\repos\All C# ITP\DLL_LR7_ITP\DLL_LR7_ITP\obj\Debug\DLL_LR7_ITP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\All C# ITP\DLL_LR7_ITP\DLL_LR7_ITP\obj\Debug\DLL_LR7_ITP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\All C# ITP\DLL_LR7_ITP\DLL_LR7_ITP\obj\Debug\DLL_LR7_ITP.dll
+C:\Users\User\source\repos\All C# ITP\DLL_LR7_ITP\DLL_LR7_ITP\obj\Debug\DLL_LR7_ITP.pdb

@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\bin\Debug\ITP_LR7.exe.config
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\bin\Debug\ITP_LR7.exe
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\bin\Debug\ITP_LR7.pdb
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.Form1.resources
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.Properties.Resources.resources
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.exe
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.pdb
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\bin\Debug\DLL_LR7_ITP.dll
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\bin\Debug\DLL_LR7_ITP.pdb
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.csproj.CopyComplete
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\All C# ITP\ITP_LR7\ITP_LR7\obj\Debug\ITP_LR7.csproj.ResolveComReference.cache
