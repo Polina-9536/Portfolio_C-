@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\All C# ITP\DLL_ITP_massive_odn\DLL_ITP_massive_odn\bin\Debug\DLL_ITP_massive_odn.dll
+C:\Users\User\source\repos\All C# ITP\DLL_ITP_massive_odn\DLL_ITP_massive_odn\bin\Debug\DLL_ITP_massive_odn.pdb
+C:\Users\User\source\repos\All C# ITP\DLL_ITP_massive_odn\DLL_ITP_massive_odn\obj\Debug\DLL_ITP_massive_odn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\All C# ITP\DLL_ITP_massive_odn\DLL_ITP_massive_odn\obj\Debug\DLL_ITP_massive_odn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\All C# ITP\DLL_ITP_massive_odn\DLL_ITP_massive_odn\obj\Debug\DLL_ITP_massive_odn.dll
+C:\Users\User\source\repos\All C# ITP\DLL_ITP_massive_odn\DLL_ITP_massive_odn\obj\Debug\DLL_ITP_massive_odn.pdb
+C:\Users\User\source\repos\All C# ITP\DLL_ITP_massive_odn\DLL_ITP_massive_odn\obj\Debug\DLL_ITP_massive_odn.csproj.ResolveComReference.cache

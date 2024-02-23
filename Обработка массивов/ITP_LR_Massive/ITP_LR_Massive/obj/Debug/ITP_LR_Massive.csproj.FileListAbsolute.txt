@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\bin\Debug\ITP_LR_Massive.exe.config
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\bin\Debug\ITP_LR_Massive.exe
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\bin\Debug\ITP_LR_Massive.pdb
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.Form1.resources
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.Properties.Resources.resources
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.csproj.GenerateResource.cache
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.exe
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.pdb
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\bin\Debug\DLL_ITP_massive_odn.dll
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\bin\Debug\DLL_ITP_massive_odn.pdb
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\obj\Debug\ITP_LR_Massive.csproj.CopyComplete
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\bin\Debug\DLL_Word.dll
+C:\Users\User\source\repos\All C# ITP\ITP_LR_Massive\ITP_LR_Massive\bin\Debug\DLL_Word.pdb

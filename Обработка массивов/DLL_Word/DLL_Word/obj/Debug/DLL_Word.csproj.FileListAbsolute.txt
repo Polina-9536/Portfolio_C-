@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\All C# ITP\DLL_Word\DLL_Word\bin\Debug\DLL_Word.dll
+C:\Users\User\source\repos\All C# ITP\DLL_Word\DLL_Word\bin\Debug\DLL_Word.pdb
+C:\Users\User\source\repos\All C# ITP\DLL_Word\DLL_Word\obj\Debug\DLL_Word.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\All C# ITP\DLL_Word\DLL_Word\obj\Debug\DLL_Word.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\All C# ITP\DLL_Word\DLL_Word\obj\Debug\DLL_Word.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\All C# ITP\DLL_Word\DLL_Word\obj\Debug\DLL_Word.dll
+C:\Users\User\source\repos\All C# ITP\DLL_Word\DLL_Word\obj\Debug\DLL_Word.pdb
